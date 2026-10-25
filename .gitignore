@@ -1,0 +1,4 @@
+claves.env
+bot_estado.json
+__pycache__/
+*.pyc
